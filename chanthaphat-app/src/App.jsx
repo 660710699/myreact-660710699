@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Hello from './Hello';
 import GoodBye from './GoodBye';
+import JSXExamples from './components/JSXExamples';
 
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
         </a>
         <GoodBye/>
       </header>
-      
+      <JSXExamples/>
     </div>
   );
 }
